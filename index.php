@@ -10,7 +10,7 @@
     <div id="quote-container">
         <h1>DailyQuote</h1>
         <p id="quote-text">Loading...</p>
-        <button onclick="getDailyQuote()">Get Daily Quote</button>
+        <button onclick="getDailyQuote()">Get Daily Quote eiei</button>
     </div>
     <script src="script.js"></script>
 </body>
